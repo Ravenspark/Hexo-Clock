@@ -1,0 +1,3 @@
+[submodule "ESP32_led_strip"]
+	path = ESP32_led_strip
+	url = https://github.com/allenck/ESP32_led_strip.git
